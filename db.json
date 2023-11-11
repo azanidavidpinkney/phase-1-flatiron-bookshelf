@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": "The Great Gatsby",
-        "authors": "F. Scott Fitzgerald",
+        "author": "F. Scott Fitzgerald",
         "genre": "Fiction",
         "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg",
         "yearPublished": 1925,
@@ -15,7 +15,7 @@
       {
         "id": 2,
         "title": "To Kill a Mockingbird",
-        "authors": "Harper Lee",
+        "author": "Harper Lee",
         "genre": "Fiction",
         "coverImage": "https://i.etsystatic.com/20545894/r/il/b4fdeb/1977094523/il_fullxfull.1977094523_ov6v.jpg",
         "yearPublished": 1960,
@@ -27,7 +27,7 @@
       {
         "id": 3,
         "title": "1984",
-        "authors": "George Orwell",
+        "author": "George Orwell",
         "genre": "Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1949,
@@ -39,7 +39,7 @@
       {
         "id": 4,
         "title": "The Catcher in the Rye",
-        "authors": "J.D. Salinger",
+        "author": "J.D. Salinger",
         "genre": "Fiction",
         "coverImage": "https://www.pluggedin.com/wp-content/uploads/2020/01/catcher-in-the-rye-cover-image-682x1024.jpeg",
         "yearPublished": 1951,
@@ -51,7 +51,7 @@
       {
         "id": 5,
         "title": "The Hobbit",
-        "authors": "J.R.R. Tolkien",
+        "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
         "coverImage": "https://m.media-amazon.com/images/I/A11+Gq4ebyL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1937,
@@ -63,7 +63,7 @@
       {
         "id": 6,
         "title": "Harry Potter and the Sorcerer's Stone",
-        "authors": "J.K. Rowling",
+        "author": "J.K. Rowling",
         "genre": "Fantasy",
         "coverImage": "https://m.media-amazon.com/images/I/91ocU8970hL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1997,
@@ -75,7 +75,7 @@
       {
         "id": 7,
         "title": "The Lord of the Rings",
-        "authors": "J.R.R. Tolkien",
+        "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
         "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
         "yearPublished": 1954,
@@ -87,7 +87,7 @@
       {
         "id": 8,
         "title": "Moby-Dick",
-        "authors": "Herman Melville",
+        "author": "Herman Melville",
         "genre": "Fiction",
         "coverImage": "https://mpd-biblio-covers.imgix.net/9781466804128.jpg",
         "yearPublished": 1851,
@@ -99,7 +99,7 @@
       {
         "id": 9,
         "title": "Pride and Prejudice",
-        "authors": "Jane Austen",
+        "author": "Jane Austen",
         "genre": "Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1813,
@@ -111,7 +111,7 @@
       {
         "id": 10,
         "title": "Brave New World",
-        "authors": "Aldous Huxley",
+        "author": "Aldous Huxley",
         "genre": "Fiction",
         "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
         "yearPublished": 1932,
@@ -123,7 +123,7 @@
       {
         "id": 11,
         "title": "The Alchemist",
-        "authors": "Paulo Coelho",
+        "author": "Paulo Coelho",
         "genre": "Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg",
         "yearPublished": 1988,
@@ -135,7 +135,7 @@
       {
         "id": 12,
         "title": "The Da Vinci Code",
-        "authors": "Dan Brown",
+        "author": "Dan Brown",
         "genre": "Mystery",
         "coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2003,
@@ -147,7 +147,7 @@
       {
         "id": 13,
         "title": "The Girl with the Dragon Tattoo",
-        "authors": "Stieg Larsson",
+        "author": "Stieg Larsson",
         "genre": "Mystery",
         "coverImage": "https://miro.medium.com/v2/resize:fit:510/1*wO5mTG4656JMXR2RyqdhDQ.jpeg",
         "yearPublished": 2005,
@@ -159,7 +159,7 @@
       {
         "id": 14,
         "title": "The Hunger Games",
-        "authors": "Suzanne Collins",
+        "author": "Suzanne Collins",
         "genre": "Science Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/614SwlZNtJL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2008,
@@ -171,7 +171,7 @@
       {
         "id": 15,
         "title": "The Road",
-        "authors": "Cormac McCarthy",
+        "author": "Cormac McCarthy",
         "genre": "Fiction",
         "coverImage": "https://miro.medium.com/v2/resize:fit:332/0*d3VfUDgmo-DoYlGh.jpg",
         "yearPublished": 2006,
@@ -183,7 +183,7 @@
       {
         "id": 16,
         "title": "Gone Girl",
-        "authors": "Gillian Flynn",
+        "author": "Gillian Flynn",
         "genre": "Mystery",
         "coverImage": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2012,
@@ -195,7 +195,7 @@
       {
         "id": 17,
         "title": "The Shining",
-        "authors": "Stephen King",
+        "author": "Stephen King",
         "genre": "Horror",
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg",
         "yearPublished": 1977,
@@ -207,7 +207,7 @@
       {
         "id": 18,
         "title": "The Road Less Traveled",
-        "authors": "M. Scott Peck",
+        "author": "M. Scott Peck",
         "genre": "Psychology",
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322673263i/347852.jpg",
         "yearPublished": 1978,
@@ -219,7 +219,7 @@
       {
         "id": 19,
         "title": "The Martian",
-        "authors": "Andy Weir",
+        "author": "Andy Weir",
         "genre": "Science Fiction",
         "coverImage": "https://1.bp.blogspot.com/-BYonzSS5IQg/VVnWtaZYLII/AAAAAAAACI4/2NLQXx0Jaso/s1600/Book-Review-The-Martian.jpg",
         "yearPublished": 2011,
@@ -231,7 +231,7 @@
       {
         "id": 20,
         "title": "The Help",
-        "authors": "Kathryn Stockett",
+        "author": "Kathryn Stockett",
         "genre": "Historical Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/81YI+R5RwFL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2009,
@@ -243,7 +243,7 @@
       {
         "id": 21,
         "title": "The Silent Patient",
-        "authors": "Alex Michaelides",
+        "author": "Alex Michaelides",
         "genre": "Thriller",
         "coverImage": "https://m.media-amazon.com/images/I/81dkqO5LAQL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2019,
@@ -255,7 +255,7 @@
       {
         "id": 22,
         "title": "Educated",
-        "authors": "Tara Westover",
+        "author": "Tara Westover",
         "genre": "Memoir",
         "coverImage": "https://m.media-amazon.com/images/I/812wVvcrAjL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
@@ -267,7 +267,7 @@
       {
         "id": 23,
         "title": "Becoming",
-        "authors": "Michelle Obama",
+        "author": "Michelle Obama",
         "genre": "Memoir",
         "coverImage": "https://m.media-amazon.com/images/I/815rLjPo9KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
@@ -279,7 +279,7 @@
       {
         "id": 24,
         "title": "Where the Crawdads Sing",
-        "authors": "Delia Owens",
+        "author": "Delia Owens",
         "genre": "Mystery",
         "coverImage": "https://m.media-amazon.com/images/I/81HA6TJ5K-L._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
@@ -291,7 +291,7 @@
       {
         "id": 25,
         "title": "The Nightingale",
-        "authors": "Kristin Hannah",
+        "author": "Kristin Hannah",
         "genre": "Historical Fiction",
         "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1426096328i/13973637.jpg",
         "yearPublished": 2015,
@@ -303,7 +303,7 @@
       {
         "id": 26,
         "title": "The Girl on the Train",
-        "authors": "Paula Hawkins",
+        "author": "Paula Hawkins",
         "genre": "Mystery",
         "coverImage": "https://miro.medium.com/v2/resize:fit:985/0*cKOrlRIvxJvB56Z8.jpeg",
         "yearPublished": 2015,
@@ -315,7 +315,7 @@
       {
         "id": 27,
         "title": "Circe",
-        "authors": "Madeline Miller",
+        "author": "Madeline Miller",
         "genre": "Fantasy",
         "coverImage": "https://sulfurbooks.com/wp-content/uploads/2021/03/original-460.jpeg",
         "yearPublished": 2018,
@@ -327,7 +327,7 @@
       {
         "id": 28,
         "title": "A Gentleman in Moscow",
-        "authors": "Amor Towles",
+        "author": "Amor Towles",
         "genre": "Historical Fiction",
         "coverImage": "https://npr.brightspotcdn.com/dims4/default/76b25be/2147483647/strip/true/crop/996x1398+0+0/resize/880x1235!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwbu%2Ffiles%2F201807%2Fgentleman_moscow.jpg",
         "yearPublished": 2016,
@@ -339,7 +339,7 @@
       {
         "id": 29,
         "title": "Eleanor Oliphant Is Completely Fine",
-        "authors": "Gail Honeyman",
+        "author": "Gail Honeyman",
         "genre": "Fiction",
         "coverImage": "https://m.media-amazon.com/images/I/91nHC-xa5KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2017,
@@ -351,7 +351,7 @@
       {
         "id": 30,
         "title": "The Goldfinch",
-        "authors": "Donna Tartt",
+        "author": "Donna Tartt",
         "genre": "Mystery",
         "coverImage": "https://m.media-amazon.com/images/I/61Gvk5ZlZnL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2013,
