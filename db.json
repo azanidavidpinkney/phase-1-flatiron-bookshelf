@@ -8,7 +8,7 @@
         "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg",
         "yearPublished": 1925,
         "pageCount": 180,
-        "summary": "A story of love and excess in the Roaring Twenties.",
+        "description": "A story of love and excess in the Roaring Twenties.",
         "publisher": "Scribner",
         "ISBN": "978-0743273565"
       },
@@ -20,7 +20,7 @@
         "coverImage": "https://i.etsystatic.com/20545894/r/il/b4fdeb/1977094523/il_fullxfull.1977094523_ov6v.jpg",
         "yearPublished": 1960,
         "pageCount": 336,
-        "summary": "A powerful story of racial injustice and moral growth in a small Southern town.",
+        "description": "A powerful story of racial injustice and moral growth in a small Southern town.",
         "publisher": "J. B. Lippincott & Co.",
         "ISBN": "978-0061120084"
       },
@@ -32,7 +32,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1949,
         "pageCount": 328,
-        "summary": "A dystopian novel set in a totalitarian society where independent thought is forbidden.",
+        "description": "A dystopian novel set in a totalitarian society where independent thought is forbidden.",
         "publisher": "Secker & Warburg",
         "ISBN": "978-0451524935"
       },
@@ -44,7 +44,7 @@
         "coverImage": "https://www.pluggedin.com/wp-content/uploads/2020/01/catcher-in-the-rye-cover-image-682x1024.jpeg",
         "yearPublished": 1951,
         "pageCount": 224,
-        "summary": "A coming-of-age novel following the experiences of a teenage boy in New York City.",
+        "description": "A coming-of-age novel following the experiences of a teenage boy in New York City.",
         "publisher": "Little, Brown and Company",
         "ISBN": "978-0316769488"
       },
@@ -56,7 +56,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/A11+Gq4ebyL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1937,
         "pageCount": 310,
-        "summary": "The classic tale of a hobbit's epic adventure.",
+        "description": "The classic tale of a hobbit's epic adventure.",
         "publisher": "George Allen & Unwin",
         "ISBN": "978-0345339683"
       },
@@ -68,7 +68,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/91ocU8970hL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1997,
         "pageCount": 309,
-        "summary": "The start of a magical journey in the world of wizards and witches.",
+        "description": "The start of a magical journey in the world of wizards and witches.",
         "publisher": "Bloomsbury",
         "ISBN": "978-0590353403"
       },
@@ -80,7 +80,7 @@
         "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
         "yearPublished": 1954,
         "pageCount": 1178,
-        "summary": "An epic fantasy trilogy set in the world of Middle-earth.",
+        "description": "An epic fantasy trilogy set in the world of Middle-earth.",
         "publisher": "George Allen & Unwin",
         "ISBN": "978-0618640157"
       },
@@ -92,7 +92,7 @@
         "coverImage": "https://mpd-biblio-covers.imgix.net/9781466804128.jpg",
         "yearPublished": 1851,
         "pageCount": 625,
-        "summary": "The story of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.",
+        "description": "The story of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.",
         "publisher": "Harper & Brothers",
         "ISBN": "978-0486432151"
       },
@@ -104,7 +104,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 1813,
         "pageCount": 279,
-        "summary": "The classic tale of love and class in early 19th-century England.",
+        "description": "The classic tale of love and class in early 19th-century England.",
         "publisher": "T. Egerton, Whitehall",
         "ISBN": "978-0141439518"
       },
@@ -116,7 +116,7 @@
         "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
         "yearPublished": 1932,
         "pageCount": 311,
-        "summary": "A dystopian novel exploring a future society driven by technological advancements.",
+        "description": "A dystopian novel exploring a future society driven by technological advancements.",
         "publisher": "Chatto & Windus",
         "ISBN": "978-0060850524"
       },
@@ -128,7 +128,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg",
         "yearPublished": 1988,
         "pageCount": 208,
-        "summary": "A philosophical novel about a journey to find one's personal legend.",
+        "description": "A philosophical novel about a journey to find one's personal legend.",
         "publisher": "HarperOne",
         "ISBN": "978-0062315007"
       },
@@ -140,7 +140,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2003,
         "pageCount": 454,
-        "summary": "A thriller exploring a mysterious murder and a secret society.",
+        "description": "A thriller exploring a mysterious murder and a secret society.",
         "publisher": "Doubleday",
         "ISBN": "978-0307474278"
       },
@@ -152,7 +152,7 @@
         "coverImage": "https://miro.medium.com/v2/resize:fit:510/1*wO5mTG4656JMXR2RyqdhDQ.jpeg",
         "yearPublished": 2005,
         "pageCount": 672,
-        "summary": "A gripping mystery novel featuring a brilliant hacker and an investigative journalist.",
+        "description": "A gripping mystery novel featuring a brilliant hacker and an investigative journalist.",
         "publisher": "Norstedts Förlag",
         "ISBN": "978-0307454546"
       },
@@ -164,7 +164,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/614SwlZNtJL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2008,
         "pageCount": 374,
-        "summary": "A dystopian series about a young girl's fight for survival in a brutal competition.",
+        "description": "A dystopian series about a young girl's fight for survival in a brutal competition.",
         "publisher": "Scholastic Press",
         "ISBN": "978-0439023481"
       },
@@ -176,7 +176,7 @@
         "coverImage": "https://miro.medium.com/v2/resize:fit:332/0*d3VfUDgmo-DoYlGh.jpg",
         "yearPublished": 2006,
         "pageCount": 241,
-        "summary": "A post-apocalyptic novel following a father and son's journey for survival.",
+        "description": "A post-apocalyptic novel following a father and son's journey for survival.",
         "publisher": "Knopf",
         "ISBN": "978-0307387899"
       },
@@ -188,7 +188,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2012,
         "pageCount": 419,
-        "summary": "A psychological thriller about a husband and wife with dark secrets.",
+        "description": "A psychological thriller about a husband and wife with dark secrets.",
         "publisher": "Crown Publishing Group",
         "ISBN": "978-0307588364"
       },
@@ -200,7 +200,7 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg",
         "yearPublished": 1977,
         "pageCount": 447,
-        "summary": "A classic horror novel set in an isolated and haunted hotel.",
+        "description": "A classic horror novel set in an isolated and haunted hotel.",
         "publisher": "Doubleday",
         "ISBN": "978-0307743657"
       },
@@ -212,7 +212,7 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322673263i/347852.jpg",
         "yearPublished": 1978,
         "pageCount": 316,
-        "summary": "A self-help book that explores the nature of love, growth, and spirituality.",
+        "description": "A self-help book that explores the nature of love, growth, and spirituality.",
         "publisher": "Simon & Schuster",
         "ISBN": "978-0743243155"
       },
@@ -224,7 +224,7 @@
         "coverImage": "https://1.bp.blogspot.com/-BYonzSS5IQg/VVnWtaZYLII/AAAAAAAACI4/2NLQXx0Jaso/s1600/Book-Review-The-Martian.jpg",
         "yearPublished": 2011,
         "pageCount": 369,
-        "summary": "A science fiction novel about an astronaut stranded on Mars.",
+        "description": "A science fiction novel about an astronaut stranded on Mars.",
         "publisher": "Crown Publishing Group",
         "ISBN": "978-0804139021"
       },
@@ -236,7 +236,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/81YI+R5RwFL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2009,
         "pageCount": 464,
-        "summary": "A novel set in 1960s Mississippi, exploring racial and social issues.",
+        "description": "A novel set in 1960s Mississippi, exploring racial and social issues.",
         "publisher": "Penguin Books",
         "ISBN": "978-0425232200"
       },
@@ -248,7 +248,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/81dkqO5LAQL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2019,
         "pageCount": 336,
-        "summary": "A psychological thriller about a woman who shoots her husband and never speaks again.",
+        "description": "A psychological thriller about a woman who shoots her husband and never speaks again.",
         "publisher": "Celadon Books",
         "ISBN": "978-1250301697"
       },
@@ -260,7 +260,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/812wVvcrAjL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
         "pageCount": 334,
-        "summary": "A memoir about a woman who grows up in a strict and abusive household but eventually escapes to learn about the world through education.",
+        "description": "A memoir about a woman who grows up in a strict and abusive household but eventually escapes to learn about the world through education.",
         "publisher": "Random House",
         "ISBN": "978-0399590504"
       },
@@ -272,7 +272,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/815rLjPo9KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
         "pageCount": 426,
-        "summary": "A memoir by the former First Lady of the United States, Michelle Obama, reflecting on her life and experiences.",
+        "description": "A memoir by the former First Lady of the United States, Michelle Obama, reflecting on her life and experiences.",
         "publisher": "Crown Publishing Group",
         "ISBN": "978-1524763138"
       },
@@ -284,7 +284,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/81HA6TJ5K-L._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2018,
         "pageCount": 384,
-        "summary": "A mystery novel about a young woman living in isolation in the marshes of North Carolina.",
+        "description": "A mystery novel about a young woman living in isolation in the marshes of North Carolina.",
         "publisher": "G.P. Putnam's Sons",
         "ISBN": "978-0735219090"
       },
@@ -296,7 +296,7 @@
         "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1426096328i/13973637.jpg",
         "yearPublished": 2015,
         "pageCount": 440,
-        "summary": "A historical fiction novel set in Nazi-occupied France, following the lives of two sisters.",
+        "description": "A historical fiction novel set in Nazi-occupied France, following the lives of two sisters.",
         "publisher": "St. Martin's Press",
         "ISBN": "978-1250080400"
       },
@@ -308,7 +308,7 @@
         "coverImage": "https://miro.medium.com/v2/resize:fit:985/0*cKOrlRIvxJvB56Z8.jpeg",
         "yearPublished": 2015,
         "pageCount": 336,
-        "summary": "A psychological thriller about a woman who becomes entangled in a missing person's investigation.",
+        "description": "A psychological thriller about a woman who becomes entangled in a missing person's investigation.",
         "publisher": "Riverhead Books",
         "ISBN": "978-0735219090"
       },
@@ -320,7 +320,7 @@
         "coverImage": "https://sulfurbooks.com/wp-content/uploads/2021/03/original-460.jpeg",
         "yearPublished": 2018,
         "pageCount": 400,
-        "summary": "A fantasy novel that reimagines the story of Circe, the Greek mythological sorceress.",
+        "description": "A fantasy novel that reimagines the story of Circe, the Greek mythological sorceress.",
         "publisher": "Little, Brown and Company",
         "ISBN": "978-0316556347"
       },
@@ -332,7 +332,7 @@
         "coverImage": "https://npr.brightspotcdn.com/dims4/default/76b25be/2147483647/strip/true/crop/996x1398+0+0/resize/880x1235!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwbu%2Ffiles%2F201807%2Fgentleman_moscow.jpg",
         "yearPublished": 2016,
         "pageCount": 462,
-        "summary": "A historical fiction novel about a Russian aristocrat who is placed under house arrest in a luxury hotel in Moscow.",
+        "description": "A historical fiction novel about a Russian aristocrat who is placed under house arrest in a luxury hotel in Moscow.",
         "publisher": "Viking",
         "ISBN": "978-0670026197"
       },
@@ -344,7 +344,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/91nHC-xa5KL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2017,
         "pageCount": 386,
-        "summary": "A novel about a socially awkward woman who gradually comes out of her shell.",
+        "description": "A novel about a socially awkward woman who gradually comes out of her shell.",
         "publisher": "Penguin Books",
         "ISBN": "978-0735220690"
       },
@@ -356,7 +356,7 @@
         "coverImage": "https://m.media-amazon.com/images/I/61Gvk5ZlZnL._AC_UF1000,1000_QL80_.jpg",
         "yearPublished": 2013,
         "pageCount": 771,
-        "summary": "A coming-of-age novel centered around a young boy who survives a terrorist attack at an art museum.",
+        "description": "A coming-of-age novel centered around a young boy who survives a terrorist attack at an art museum.",
         "publisher": "Little, Brown and Company",
         "ISBN": "978-0316055420"
       }
