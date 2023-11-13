@@ -32,6 +32,7 @@ const displayBookDetails = book => {
 const appendBook = book => {
   const list = document.createElement("li");
   list.textContent = book.title;
+  list.addEventListener("click", () => displayBookDetails(book)); //Click any book title to replace current movie's details
   ulContainer.append(list);
 };
 
