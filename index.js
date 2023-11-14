@@ -18,16 +18,16 @@ const bookIsbn = document.querySelector("#book-isbn");
 
 //Display book's details
 const displayBookDetails = book => {
-  bookTitle.textContent = `Title: ${book.title}`;
-  bookAuthor.textContent = `Author: ${book.author}`;
-  bookGenre.textContent = `Genre: ${book.genre}`;
+  bookTitle.innerHTML = `<b>Title:</b> ${book.title}`;
+  bookAuthor.innerHTML = `<b>Author:</b> ${book.author}`;
+  bookGenre.innerHTML = `<b>Genre:</b> ${book.genre}`;
   bookImg.src = book.coverImage;
   bookImg.alt = book.title;
-  bookYearPublished.textContent = `Release Year: ${book.yearPublished}`;
-  bookPage.textContent = `Number of Pages: ${book.pageCount}`;
-  bookDescription.textContent = `Description: ${book.description}`;
-  bookPublisher.textContent = `Publisher: ${book.publisher}`;
-  bookIsbn.textContent = `ISBN: ${book.ISBN}`;
+  bookYearPublished.innerHTML = `<b>Release Year:</b> ${book.yearPublished}`;
+  bookPage.innerHTML = `<b>Number of Pages:</b> ${book.pageCount}`;
+  bookDescription.innerHTML = `<b>Description:</b> ${book.description}`;
+  bookPublisher.innerHTML = `<b>Publisher:</b> ${book.publisher}`;
+  bookIsbn.innerHTML = `<b>ISBN:</b> ${book.ISBN}`;
 };
 
 //Append book
