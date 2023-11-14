@@ -10,14 +10,19 @@
     width:80%;
     background-color: white;
     margin:-2% auto;  
-    height: 103vh;
+    height: 102.57vh;
   }
   
   /* Style the header */
   header {
-    padding: 20px;
-    height: 10vh;
+    padding: 1%;
+    height: 15%;
     background-color: #a0b9cf;
+  }
+
+  #logo{
+    height: 12vh;
+    margin-top: 2%;
   }
   
   /* Style the book navigation container */
@@ -27,7 +32,7 @@
     position: absolute;
     top: 10;
     width: 12vw;
-    height: 85.5%;
+    height: 81.94%;
     background-color: #dad0fd;
     overflow-y: scroll;
   }
