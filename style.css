@@ -16,13 +16,13 @@
   /* Style the header */
   header {
     padding: 1%;
-    height: 15%;
-    background-color: #a0b9cf;
+    height: 13%;
+    background-color: #1C7FA6;
   }
 
   #logo{
     height: 12vh;
-    margin-top: 2%;
+    margin-top: .5%;
   }
   
   /* Style the book navigation container */
@@ -32,7 +32,7 @@
     position: absolute;
     top: 10;
     width: 12vw;
-    height: 81.94%;
+    height: 83.98%;
     background-color: #dad0fd;
     overflow-y: scroll;
   }
@@ -88,14 +88,14 @@
   }
   
   #book-cover {
-    max-width: 135%;
+    max-width: 170%;
     height: auto;
   }
   
   #book-detail-card {
     flex: 1;
-    margin-left: 10%;
-    font-size: 1.15em;
+    margin-left: 20%;
+    font-size: 1.4em;
   }
 
   .book-submission-content {
