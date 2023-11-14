@@ -2,6 +2,7 @@
 const bookURL = "http://localhost:3000/books";
 const ulContainer = document.querySelector("#book-nav");
 const bookForm = document.querySelector("#book-form");
+const bookModal = document.querySelector("#mainForm");
 //Book's details
 const bookTitle = document.querySelector("#book-title");
 const bookAuthor = document.querySelector("#book-author");
@@ -49,8 +50,7 @@ const fetchData = () => {
 };
 fetchData();
 
-//Form to add book
-
+//Form to add a book
 const addBookToForm = e => {
   //Prevent the page from refreshing
   e.preventDefault();
@@ -85,3 +85,14 @@ const addBookToForm = e => {
 };
 //Invoke the function when the form is submitted
 bookForm.addEventListener("submit", addBookToForm);
+
+//For the modal
+//To open the modal
+function openForm() {
+  bookModal.style.display = "block";
+}
+
+//To close the modal
+function closeForm() {
+  bookModal.style.display = "none";
+}
