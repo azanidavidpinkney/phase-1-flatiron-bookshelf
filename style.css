@@ -78,21 +78,21 @@
     flex: 1;
   }
   
-  .book-submission-form {
+  .book-form {
     display: flex;
     flex-direction: column;
   }
   
-  .book-submission-form label {
+  .book-form label {
     margin-bottom: 10px;
   }
   
-  .book-submission-form input,
-  .book-submission-form textarea {
+  .book-form input,
+  .book-form textarea {
     margin-bottom: 20px;
   }
   
-  .book-submission-form button {
+  .book-form button {
     margin-top: 20px;
     width: 200px;
   }
