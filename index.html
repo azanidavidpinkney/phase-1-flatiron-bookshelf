@@ -48,33 +48,32 @@
                         </div>
                     </div>
 
-                    <section>
-                        <header>
-                            <h2>Add a book to the bookshelf here:</h2>
-                        </header>     
-                        <form id="book-form" class="book-form">
-                            <label for="book-title-input">What is the title of your book?</label>
-                            <input required type="text" name="book-title" id="book-title-input" placeholder="Enter book title"/>
-                            <label for="author-name-input">What is your full name?</label>
-                            <input required type="text" name="author-name" id="author-name-input" placeholder="Enter your name"/>
-                            <label for="book-genre-input">What genre does your book fall under?</label>
-                            <input required type="text" name="book-genre" id="book-genre-input" placeholder="Enter your book's title"/>
-                            <label for="book-cover-upload-input">Please upload your book cover:</label>
-                            <input required type="file" name="book-cover-upload" id="book-cover-upload-input" accept=".png, .jpg, .jpeg">
-                            <label for="year-published">What year was your book published?</label>
-                            <input required type="number" name="year-published" id="year-published-input" placeholder="YYYY"> 
-                            <label for="page-count-input">How many pages is your book?</label>
-                            <input required type="number" name="page-count" id="page-count-input">
-                            <label for="book-description-input">Please enter a brief 1-2 sentence description of your book:</label>
-                            <input required type="text" name="book-description" id="book-description-input">
-                            <label for="book-publisher-input">Who is your book's publisher?</label>
-                            <input required type="text" name="book-publisher" id="book-publisher-input" placeholder="Enter Publisher name or Self-published.">   
-                            <label for="book-isbn-input">Please enter the ISBN:</label>
-                            <input required type="text" pattern="^\d{3}-\d{10}$" name="book-isbn" id="book-isbn-input" placeholder="Please enter in standard ISBN format: XXX-XXXXXXXXXX"/>
-                            <button type="submit">Add book</button>               
-                        </form>
-                    </section>
-                </main>
+                <section>
+                    <header>
+                        <h2>Add a book to the bookshelf here:</h2>
+                    </header>
+                    <form id="book-form" class="book-form">
+                        <label for="book-title-input">What is the title of your book?</label>
+                        <input required type="text" name="book-title" id="new-title" placeholder="Enter book title"/>
+                        <label for="author-name-input">What is your full name?</label>
+                        <input required type="text" name="author-name" id="new-name" placeholder="Enter your name"/>
+                        <label for="book-genre-input">What genre does your book fall under?</label>
+                        <input required type="text" name="book-genre" id="new-genre" placeholder="Enter your book's title"/>
+                        <label for="book-cover-upload-input">Please upload your book cover:</label>
+                        <input required type="text" type="text" name="image" id="new-image" placeholder="Enter a book's image" />
+                        <label for="year-published">What year was your book published?</label>
+                        <input required type="number" name="year-published" id="new-published-year" placeholder="YYYY"> 
+                        <label for="page-count-input">How many pages is your book?</label>
+                        <input required type="number" name="page-count" id="new-page-count">
+                        <label for="book-description-input">Please enter a brief 1-2 sentence description of your book:</label>
+                        <textarea required type="text" name="book-description" id="new-description"></textarea>
+                        <label for="book-publisher-input">Who is your book's publisher?</label>
+                        <input required type="text" name="book-publisher" id="new-publisher" placeholder="Enter Publisher name or Self-published.">   
+                        <label for="book-isbn-input">Please enter the ISBN:</label>
+                        <input required type="text" pattern="^\d{3}-\d{10}$" name="book-isbn" id="new-isbn" placeholder="Please enter in standard ISBN format: XXX-XXXXXXXXXX"/>
+                        <button type="submit">Add book</button>               
+                    </form>
+                </section>
             </body>
         </head>
     </html>

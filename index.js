@@ -1,6 +1,7 @@
 //Global variables
 const bookURL = "http://localhost:3000/books";
 const ulContainer = document.querySelector("#book-nav");
+const bookForm = document.querySelector("#book-form");
 //Book's details
 const bookTitle = document.querySelector("#book-title");
 const bookAuthor = document.querySelector("#book-author");
@@ -47,3 +48,40 @@ const fetchData = () => {
     });
 };
 fetchData();
+
+//Form to add book
+
+const addBookToForm = e => {
+  //Prevent the page from refreshing
+  e.preventDefault();
+
+  //Target HTML inputs' id's names from the form
+  const inputTitle = e.target["new-title"].value;
+  const inputName = e.target["new-name"].value;
+  const inputGenre = e.target["new-genre"].value;
+  const inputImage = e.target["new-image"].value;
+  const inputPublishedYear = e.target["new-published-year"].value;
+  const inputPageNumber = e.target["new-page-count"].value;
+  const inputDescription = e.target["new-description"].value;
+  const inputPublisher = e.target["new-publisher"].value;
+  const inputIsbn = e.target["new-isbn"].value;
+
+  const newBook = {
+    title: inputTitle,
+    author: inputName,
+    genre: inputGenre,
+    coverImage: inputImage,
+    yearPublished: inputPublishedYear,
+    pageCount: inputPageNumber,
+    description: inputDescription,
+    publisher: inputPublisher,
+    ISBN: inputIsbn,
+  };
+
+  //Invoke the function to get new book
+  displayBookDetails(newBook);
+  //Reset the form
+  e.target.reset();
+};
+//Invoke the function when the form is submitted
+bookForm.addEventListener("submit", addBookToForm);
