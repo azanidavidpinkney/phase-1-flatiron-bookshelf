@@ -5,7 +5,8 @@
             <link rel="stylesheet" type="text/css" href="style.css"/> 
             <title>Flatiron Bookshelf</title>
             <body>
-                <header class="main-header">
+                <div id="wrapper">
+                <header>
                     <h1>Flatiron Bookshelf</h1>
                 </header>
 
@@ -49,31 +50,24 @@
                     </div>
 
                 <section>
-                    <header>
-                        <h2>Add a book to the bookshelf here:</h2>
-                    </header>
+                    <div id="mainForm">
                     <form id="book-form" class="book-form">
-                        <label for="book-title-input">What is the title of your book?</label>
-                        <input required type="text" name="book-title" id="new-title" placeholder="Enter book title"/>
-                        <label for="author-name-input">What is your full name?</label>
-                        <input required type="text" name="author-name" id="new-name" placeholder="Enter your name"/>
-                        <label for="book-genre-input">What genre does your book fall under?</label>
-                        <input required type="text" name="book-genre" id="new-genre" placeholder="Enter your book's title"/>
-                        <label for="book-cover-upload-input">Please upload your book cover:</label>
+                        <h2>Add a book to the bookshelf here:</h2>
+                        <input required type="text" name="book-title" id="new-title" placeholder="Enter a book title"/>
+                        <input required type="text" name="author-name" id="new-name" placeholder="Enter your full name"/>
+                        <input required type="text" name="book-genre" id="new-genre" placeholder="Enter your book's genre"/>
                         <input required type="text" type="text" name="image" id="new-image" placeholder="Enter a book's image" />
-                        <label for="year-published">What year was your book published?</label>
-                        <input required type="number" name="year-published" id="new-published-year" placeholder="YYYY"> 
-                        <label for="page-count-input">How many pages is your book?</label>
-                        <input required type="number" name="page-count" id="new-page-count">
-                        <label for="book-description-input">Please enter a brief 1-2 sentence description of your book:</label>
-                        <textarea required type="text" name="book-description" id="new-description"></textarea>
-                        <label for="book-publisher-input">Who is your book's publisher?</label>
+                        <input required type="number" name="year-published" id="new-published-year" placeholder="Enter your book's release of year"> 
+                        <input required type="number" name="page-count" id="new-page-count" placeholder="Enter your book's number of pages">
+                        <textarea required type="text" name="book-description" id="new-description" placeholder="Please enter a brief 1-2 sentence description of your book"></textarea>
                         <input required type="text" name="book-publisher" id="new-publisher" placeholder="Enter Publisher name or Self-published.">   
-                        <label for="book-isbn-input">Please enter the ISBN:</label>
                         <input required type="text" pattern="^\d{3}-\d{10}$" name="book-isbn" id="new-isbn" placeholder="Please enter in standard ISBN format: XXX-XXXXXXXXXX"/>
                         <button type="submit">Add book</button>               
                     </form>
+                    </div>
                 </section>
+                </main>
+                </div>
             </body>
         </head>
     </html>
