@@ -78,8 +78,10 @@ const addBookToForm = e => {
     ISBN: inputIsbn,
   };
 
-  //Invoke the function to get new book
+  //Invoke the function to get new book's details
   displayBookDetails(newBook);
+  //Invoke the function to get new book to list
+  appendBook(newBook);
   //Reset the form
   e.target.reset();
 };
